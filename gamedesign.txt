@@ -1,0 +1,32 @@
+Topic: Game companies - Involvement of programmers in the design process
+
+This is a question basically to programmers with experience working in game companies.
+
+How common is it that game coders participate in the design process of the game? Both gameplay design, and content design. 
+Do you participate in related meetings and such, or do you have some other (formal/informal) opportunities to sound your 
+opinions of game features / levels / even story, and for them to be actually considered?
+
+Another question, not completely unrelated - is it possible for a programmer with interest in the field to move from the 
+technical job to a gameplay design related job (or do both in smaller companies)? Does that happen?
+
+A Reply from other user ...
+
+Technical designer - These individuals straddle design and programming. Often times, the ones I've encountered have 
+started off as programmers and then heavily migrated to design. Responsibilities often involve working closely with both 
+the design team and programming team to build technically challenging design elements.
+
+Gameplay programmer - I've been a gameplay programmer on a triple-A FPS. Typically, our responsibilities involve 
+translating a designer's dreams into realities. Depending on the studio, you can be given a great deal of latitude in how 
+your implementation functions and what if offers the designer. I've seen more than one gameplay programmer's initial 
+values be used in the shipped product. Additionally, being a gameplay programmer gives you a close dialogue with the 
+design team, potentially allow you to comment or influence their designs.
+
+Other programmers - Engine programmers and tools programmers typically have very little sway in any design decisions 
+beyond "can it be done". Though, this depends on the studio. My current studio (a social/casual house) expects everyone to
+provide input for design, including all programmers.
+
+Reflection
+This will help me in choosing of what type of work that I will be with. For me, I want to be a programmer someday. This
+topic will help me understand of the different types of programmer now a days in our generation. I'm not a good artist
+that's why I want to be a programmer. Thus, I need to understand first different types of programmers and choose one of my
+choice and it will be my specialty someday. :)
